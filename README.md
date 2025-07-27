@@ -1,4 +1,3 @@
-# Disease-Classification-Using-ResNet-50
 # Disease Classification Using ResNet-50
 
 ![Disease Classification Banner](assets/banner.jpg)
